@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="btn_getweather">Get Weather</string>
+    <string name="input_city">请输入城市</string>
+</resources>
