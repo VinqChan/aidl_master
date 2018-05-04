@@ -16,6 +16,10 @@ import com.easiio.weather.IWeatherAidlInterface;
 import com.easiio.weather.R;
 
 
+/**
+ *  * Created by Echan on 2018/4/4.
+ */
+
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
     private Button mGetWeather;
